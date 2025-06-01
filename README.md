@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivani</h1>
-<h3 align="center">A passionate Python developer and MCA graduate</h3>
+<h3 align="center">A passionate Python developer and MCA Student</h3>
 
 ---
 
@@ -43,8 +43,8 @@
 
 ## 📫 Connect with Me
 
-- Email: yashr1579@gmail.com  
-- Linkedin: [linkedin.com/Yash Rajput]((https://www.linkedin.com/in/yash-rajput-275a12263/))
+- Email: shivaniagrawal11707@gmail.com 
+- Linkedin: https://www.linkedin.com/in/shivaniagrawal12
 
 ---
 
